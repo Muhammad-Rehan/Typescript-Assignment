@@ -1,1 +1,1 @@
-## Assignment Repository Created to See the Assinment
+## Assignment Repository Created to See the Assignment
