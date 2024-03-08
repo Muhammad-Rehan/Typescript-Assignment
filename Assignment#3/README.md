@@ -1,4 +1,4 @@
-## Assignment Q-2
+## Assignment Q-3
 - Q3-Name Cases: Store a person’s name in a variable, and then print that person’s name in
  lowercase, uppercase, and titlecase.
 
